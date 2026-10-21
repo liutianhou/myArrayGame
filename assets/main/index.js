@@ -14,7 +14,7 @@ System.register("chunks:///_virtual/SoundManager.ts",["cc","./Platform.ts"],(fun
 
 (function(r) {
   r('virtual:///prerequisite-imports/main', 'chunks:///_virtual/main'); 
-})(function(mid, cid) {
+})(function(mid, cid) { 
     System.register(mid, [cid], function (_export, _context) {
     return {
         setters: [function(_m) {
